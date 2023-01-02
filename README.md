@@ -1,2 +1,2 @@
 # CMR-Orientation
-This is a file 
+This is a task about CMR image orientation recognition,standardization and adjustment.
