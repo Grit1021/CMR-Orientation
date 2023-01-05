@@ -1,5 +1,5 @@
 # CMR-Orientation
-This is a task about CMR image orientation recognition,standardization and adjustment.
+This is a task about CMR images orientation recognition,standardization and adjustment.
 
 
 ## Supplementary materials
