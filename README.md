@@ -1,6 +1,7 @@
 # CMR-Orientation
 This is a task about CMR images orientation recognition,standardization and adjustment.
 
+The codes can be accessed in the master branch.
 
 ## Supplementary materials
 - More details can be accessed in the PDF.
